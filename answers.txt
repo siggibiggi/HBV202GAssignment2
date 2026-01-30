@@ -1,4 +1,11 @@
-2: HEAD is pointed to origin/main
+2: HEAD is pointed to main
+3: HEAD is pointed to origin/main
 4: there's a conflict. We resolved the conflict via merging. We didn't have to choose anything, as the conflicts were independent
 5: a conflict happens. This one is not merged as easily as they overlap
 6: We resolved by adding the ? and ! together
+7: 1st added an M to first line, 2nd added M. We resolved with NM
+8: gitignore: "
+# Default ignored files
+/shelf/
+/workspace.xml
+"
